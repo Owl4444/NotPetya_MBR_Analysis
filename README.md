@@ -13,5 +13,7 @@ NotPetya Analysis mainly focusing on MBR. This repository would contain files th
 ## Blogpost
 T.B.C
 
+## Special thanks to [https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-windows/](https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-windows/)  which provided scripts that helped make debugging a whole lot more enjoyable.
+
 ---
 
