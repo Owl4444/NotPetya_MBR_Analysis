@@ -13,5 +13,6 @@ Special thanks to [https://astralvx.com/debugging-16-bit-in-qemu-with-gdb-on-win
 
 
 ## Blogpost
-T.B.C
+[Here](https://blog.0wl.sg/Posts/2025/Mar/20250225122153---BLG---Taking-a-look-into-NotPetya's-MBR-Corruption)
+
 
