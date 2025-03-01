@@ -1,2 +1,17 @@
 # NotPetya_MBR_Analysis
-NotPetya Analysis mainly focusing on MBR
+## Sample Details
+Name: `Nero V1.40.exe`
+SHA256: 26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739
+File Type : PE32 
+Debugger : 
+	- x32dbg (Sample)
+	- WinDbg (MBR)
+
+## Description
+NotPetya Analysis mainly focusing on MBR. This repository would contain files that I have created including IDB file and MBR Dump for the sample.
+
+## Blogpost
+T.B.C
+
+---
+
