@@ -1,9 +1,9 @@
 # NotPetya_MBR_Analysis
 ## Sample Details
-Name: `Nero V1.40.exe`
-SHA256: 26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739
-File Type : PE32 
-Debugger : 
+- Name: `Nero V1.40.exe`
+- SHA256: 26b4699a7b9eeb16e76305d843d4ab05e94d43f3201436927e13b3ebafa90739
+- File Type : PE32 
+- Debugger : 
 	- x32dbg (Sample)
 	- WinDbg (MBR)
 
