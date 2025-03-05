@@ -6,6 +6,7 @@
 - Debugger : 
 	- x32dbg (Sample)
 	- WinDbg (MBR)
+- We will want to use the unmodified version for actual debugging and the modified one perhaps for decompilers.
 
 ## Description
 NotPetya Analysis mainly focusing on MBR. This repository would contain files that I have created including IDB file and MBR Dump for the sample.
